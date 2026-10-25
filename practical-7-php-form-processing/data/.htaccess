@@ -1,0 +1,2 @@
+# Apache: block direct web access to stored submission data.
+Require all denied
